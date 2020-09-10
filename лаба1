@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+	<title></title>
+<style type="text/css">
+	body {
+		margin: 0;
+		text-align: center;
+	}
+	header {
+		background: yellow;
+		height: 70px;
+	}
+	.main {
+		background: green;
+		height: 300px;
+	}
+	footer {
+		background: blue;
+		height: 70px;
+	}
+	.container {
+		width: 100%
+		max-width: 1024px;
+		padding: 0 15px;
+		margin: 0 auto;
+		background: pink;
+		height: 100%;
+	}
+</style>
+</head>
+<body>
+	<header>Стафікопуло Ярослав Ігорович</header>
+	<div class="main">
+		<div class= "container">я сайт</div>
+	</div>
+	<footer>StafikopuloYI@krok.edu.ua</footer>
+</body>
+</html>
